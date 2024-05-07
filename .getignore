@@ -1,0 +1,8 @@
+Will ignore the following
+node_modules/
+
+local config file that no one else will want
+.DS_Store
+
+#Prevent Logs from being added
+*.log
